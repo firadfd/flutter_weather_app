@@ -32,7 +32,7 @@ class ApiServices {
       );
       final weatherResponse = WeatherResponse.fromJson(response.data);
       return weatherResponse;
-    } on DioError catch (e) {
+    } on DioException {
       rethrow;
     }
   }
