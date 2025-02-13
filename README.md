@@ -1,16 +1,20 @@
-# weather_app
 
-A new Flutter project.
+# Weather App
 
-## Getting Started
+Developed a cross-platform weather app displaying real-time weather updates
+and forecasts using a public weather API. Fetched real-time data from
+OpenWeatherMap API and displayed it in an intuitive interface. Used Bloc for
+state management Dio for network requests .
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Realtime Weather
+- Specific Location
+- Live Location
+- Cross platform
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/app-screenshot-352c0.appspot.com/o/flutter%2Fweather%20app.png?alt=media&token=d2cfa464-d2a1-424b-a46d-6a591ab27269)
+
